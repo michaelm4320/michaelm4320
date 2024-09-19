@@ -1,4 +1,4 @@
-# Hello, I'm Michael 👋
+# Hello, I'm Michael! 👋
 
 ## 🚀 About Me
 I'm a recent Software Engineering graduate from Florida Gulf Coast University, passionate about creating efficient, user-friendly applications. My journey in tech is just beginning, and I'm excited to keep learning and growing!
